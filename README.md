@@ -43,25 +43,25 @@ Tambahkan screenshot aplikasi di folder `/screenshots`
  Contoh:
 #### Login & dashboard
 <p align="center">
-  <img src="image/login.jpeg" width="180"/>
-  <img src="image/dashboard.jpeg" width="180"/>
+  <img src="image/login.jpg" width="180"/>
+  <img src="image/dashboard.jpg" width="180"/>
 </p>
 
 #### menu & promo
 <p align="center">
-  <img src="image/menu.jpeg" width="180"/>
-  <img src="image/promo.jpeg" width="180"/>
+  <img src="image/menu.jpg" width="180"/>
+  <img src="image/promo.jpg" width="180"/>
 </p>
 #### pesanan & ubahprofil
 <p align="center">
-  <img src="image/pesanan.jpeg" width="180"/>
-  <img src="image/ubahprofil.jpeg" width="180"/>
+  <img src="image/pesanan.jpg" width="180"/>
+  <img src="image/ubahprofil.jpg" width="180"/>
 </p>
 #### delivery & profil & pusatbantuan
 <p align="center">
-  <img src="image/delivery.jpeg" width="180"/>
-  <img src="image/profil.jpeg" width="180"/>
-  <img src="image/pusatbantuan.jpeg" width="180"/>
+  <img src="image/delivery.jpg" width="180"/>
+  <img src="image/profil.jpg" width="180"/>
+  <img src="image/pusatbantuan.jpg" width="180"/>
 </p>
  
  
