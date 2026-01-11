@@ -13,7 +13,7 @@ Aplikasi ini terintegrasi dengan sistem pembayaran cashless serta manajemen loya
 
 Pengguna dapat melakukan pemesanan *grab-and-go* tanpa harus mengantre, menikmati promo eksklusif, serta mengumpulkan poin reward dari setiap pembelian menu kopi premium.
 
-- **Aplikasi Rujukan**: Flash Coffee
+- **Aplikasi Rujukan**: Flash Coffee https://play.google.com/store/apps/details?id=com.flashcoffee
 
 ---
 
