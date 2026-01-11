@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Projek_Uas" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFFC00</item>
+        <item name="colorPrimaryDark">#F5E800</item>
+        <item name="colorAccent">#000000</item>
+    </style>
+
+</resources>

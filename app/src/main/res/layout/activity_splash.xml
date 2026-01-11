@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C7A07A">
+
+    <ImageView
+        android:id="@+id/logoSplash"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/logo_kopi14"
+        android:scaleType="fitCenter"
+        android:elevation="15dp"
+        android:padding="10dp"
+        android:background="@drawable/shadow_glow" />
+
+</RelativeLayout>

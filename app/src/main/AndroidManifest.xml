@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xample.projek_uas">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Projek_Uas">
+
+        <activity
+            android:name=".AlamatTersimpan"
+            android:exported="false" />
+
+        <activity
+            android:name=".PusatBantuanActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".LoginActivity" android:exported="true" />
+        <activity android:name=".MainActivity" android:exported="true" />
+        <activity android:name=".HomeActivity" android:exported="false" />
+        <activity android:name=".AboutActivity" android:exported="false" />
+        <activity android:name=".EditProfilActivity" android:exported="false" />
+        <activity android:name=".MenuActivity" android:exported="false" />
+
+        <activity android:name=".DeliveryActivity" android:exported="false" />
+
+        <activity android:name=".DetailActivity" android:exported="false" />
+        <activity android:name=".PromoActivity" android:exported="false" />
+        <activity android:name=".PesananActivity" android:exported="false" />
+        <activity android:name=".MembershipActivity" android:exported="false" />
+        <activity android:name=".TantanganActivity" android:exported="false" />
+
+    </application>
+</manifest>
