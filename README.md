@@ -39,5 +39,37 @@ Pengguna dapat melakukan pemesanan *grab-and-go* tanpa harus mengantre, menikmat
 ---
 
 ## 4. Tangkapan Layar
-> Tambahkan screenshot aplikasi di folder `/screenshots`  
-> Contoh:
+Tambahkan screenshot aplikasi di folder `/screenshots`  
+ Contoh:
+ 
+---
+
+## 5. Cara Menjalankan Aplikasi
+1. **Login atau Daftar Akun**  
+   Pengguna dapat login menggunakan email atau Google.  
+   Jika belum memiliki akun, pilih menu *Belum Punya Akun* lalu isi nomor HP, email, dan password.
+
+2. **Masuk ke Halaman Utama**  
+   Setelah login berhasil, pengguna akan diarahkan ke halaman utama aplikasi.
+
+3. **Pilih Lokasi Toko**  
+   Pengguna memilih gerai Flash Coffee terdekat atau lokasi pengambilan pesanan.
+
+4. **Pilih Menu**  
+   Pengguna memilih minuman atau menu kopi yang ingin dipesan.
+
+5. **Halaman Pesanan**  
+   Pesanan yang dipilih akan masuk ke halaman pesanan dan menampilkan status:
+   - Dibuat
+   - Diproses
+   - Diantarkan
+
+6. **Ambil Pesanan / Pembayaran**  
+   Jika status pesanan sudah tiba, pengguna dapat mengambil pesanan dan melakukan pembayaran sesuai metode yang tersedia.
+
+7. **Ubah Profil**  
+   Pengguna dapat mengubah foto profil, nama, dan email pada halaman profil.
+
+8. **Logout dari Aplikasi**  
+   Pengguna dapat keluar dari akun melalui tombol **Keluar Akun** pada halaman profil.
+
