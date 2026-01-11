@@ -41,17 +41,29 @@ Pengguna dapat melakukan pemesanan *grab-and-go* tanpa harus mengantre, menikmat
 ## 4. Tangkapan Layar
 Tambahkan screenshot aplikasi di folder `/screenshots`  
  Contoh:
-#### Login & Registrasi
+#### Login & dashboard
 <p align="center">
-  <img src="images/login.jpeg" width="180"/>
-  <img src="images/registrasi.jpeg" width="180"/>
+  <img src="image/login.jpeg" width="180"/>
+  <img src="image/dashboard.jpeg" width="180"/>
 </p>
 
-#### Beranda & Search
+#### menu & promo
 <p align="center">
-  <img src="images/beranda.jpeg" width="180"/>
-  <img src="images/search.jpeg" width="180"/>
+  <img src="image/menu.jpeg" width="180"/>
+  <img src="image/promo.jpeg" width="180"/>
 </p>
+#### pesanan & ubahprofil
+<p align="center">
+  <img src="image/pesanan.jpeg" width="180"/>
+  <img src="image/ubahprofil.jpeg" width="180"/>
+</p>
+#### delivery & profil & pusatbantuan
+<p align="center">
+  <img src="image/delivery.jpeg" width="180"/>
+  <img src="image/profil.jpeg" width="180"/>
+  <img src="image/pusatbantuan.jpeg" width="180"/>
+</p>
+ 
  
 ---
 
