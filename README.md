@@ -25,8 +25,22 @@ serta mengumpulkan poin reward untuk setiap pembelian menu koi premium.
 
 4. Tangkapan Layar
 5.  Cara Menjalankan Aplikasi
-    .**Login menggunakan
+    .** Login atau Daftar Akun menggunakan
       email/google,jika belum punya akun klik belum punya akun untuk mengisi nomor hp,email,password untuk masuk ke halaman beranda.
-   .**Pada tampilan beranda terdapat 
-    
+   .**Masuk ke Halaman Utama
+Setelah login berhasil, pengguna akan masuk ke halaman utama aplikasi.
+   .**Pilih Lokasi Toko
+Pengguna memilih gerai Coffee Shop terdekat atau lokasi pengambilan pesanan.
+   .**Pilih Menu
+Pengguna memilih minuman atau menu kopi, untuk melakukan pesanan.
+   .**Masukkan ke halaman pesanan
+Pesanan yang telah dipilih dimasukkan ke dalam halaman pesanan dan memuncul deskripsi apa kah sudah dibuat atau sedang diproses atau
+sedang diantarkan ke alamatnya.
+   .**Ambil Pesanan
+jika dihalaman pesanan sudah menampilkan pesanan telah tiba makan siap-siap costumer membayar pake uang tunai.
+   .**Ubah Profil
+   di halaman ini kita bisa ubah foto,nama,email,nama.
+   .**Logout dari Aplikasi
+Setelah selesai menggunakan aplikasi, pengguna dapat keluar dari akun dengan memilih menu tombol tulisan keluar akun pada halaman profil.
+
     
