@@ -1,4 +1,4 @@
-# Tugas Akhir – Aplikasi Resep Flash Coffee
+# Tugas Akhir – Aplikasi Coffee shop
 
 ## 1. Identitas Mahasiswa
 - **Nama**: Amanda  
