@@ -8,7 +8,7 @@
 ---
 
 ## 2. Deskripsi Aplikasi
-Aplikasi Resep **Flash Coffee** merupakan platform pemesanan kopi berbasis digital yang terinspirasi dari aplikasi Flash Coffee.  
+Aplikasi  **Flash Coffee** merupakan platform pemesanan kopi berbasis digital yang terinspirasi dari aplikasi Flash Coffee.  
 Aplikasi ini terintegrasi dengan sistem pembayaran cashless serta manajemen loyalty.
 
 Pengguna dapat melakukan pemesanan *grab-and-go* tanpa harus mengantre, menikmati promo eksklusif, serta mengumpulkan poin reward dari setiap pembelian menu kopi premium.
